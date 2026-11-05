@@ -219,5 +219,7 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
-# Custom scripts
+# Custom scripts and folders
 git_setup.sh
+data/
+bertopic_model/
