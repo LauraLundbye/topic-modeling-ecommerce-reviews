@@ -221,5 +221,4 @@ __marimo__/
 
 # Custom scripts and folders
 git_setup.sh
-data/
-bertopic_model/
+data/Womens Clothing E-Commerce Reviews.csv
